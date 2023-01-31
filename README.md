@@ -1,21 +1,25 @@
 # Priddle
 
 <p align="center">
-  <img src="./client/src/image/logo.png"/>
+  <img src="./client/src/image/Puddle.png"/>
 </p>
 
-Social Site that allows users to comment and post puzzles and riddles. 
+Social Site that allows users to comment and post puzzles and riddles. This is the new updated version of Priddle. Completely scrapped the backend of the previous project Priddle. Rebuilt and restuctured the backend to be fully functional. Previously, it relied on seeds to be migrated in order to create the different categories. Now each category has its own table, and added comments table to allow users to comment on post
 
-### A live version of Priddle is deployed with Render and running here:
+### A live version of Puddle is deployed with Render and running here:
 
-[Live Version](https://priddle.onrender.com/)
+[Live Version](https://puddle.onrender.com/)
 
 
 
-## Features
+## New Features
 
 
 #### Posting
+Fully up and functioning. User can post riddles, or can post a URL for a image puzzle.
+
+### Comments
+User is now able to comment on the post and guess answers.
 
 
 

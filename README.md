@@ -4,7 +4,9 @@
   <img src="./client/src/image/Puddle.png"/>
 </p>
 
-Social Site that allows users to comment and post puzzles and riddles. This is the new updated version of Priddle. Completely scrapped the backend of the previous project Priddle. Rebuilt and restuctured the backend to be fully functional. Previously, it relied on seeds to be migrated in order to create the different categories. Now each category has its own table, and added comments table to allow users to comment on post
+Social Site that allows users to comment and post puzzles and riddles. This is the new updated version of Priddle. Completely scrapped the backend of the previous project Priddle. Rebuilt and restuctured the backend to be fully functional. Previously, it relied on seeds to be migrated in order to create the different categories. Now each category has its own table, and added comments table to allow users to comment on post.
+
+CSS changes coming soon.
 
 ### A live version of Puddle is deployed with Render and running here:
 

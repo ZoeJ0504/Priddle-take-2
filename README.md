@@ -1,4 +1,4 @@
-# Priddle
+# Puddle
 
 <p align="center">
   <img src="./client/src/image/Puddle.png"/>
